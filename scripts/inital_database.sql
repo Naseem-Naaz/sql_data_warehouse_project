@@ -1,4 +1,4 @@
-```sql
+
 /*
 =============================================================
 Create Database and Schemas
@@ -41,4 +41,4 @@ GO
 
 CREATE SCHEMA gold;
 GO
-```
+
